@@ -23,3 +23,5 @@ It generates strong random passwords and lets you copy them to the clipboard wit
 - Font Awesome (for icons)
 
 
+Url
+https://famous-pegasus-6a9c68.netlify.app/
